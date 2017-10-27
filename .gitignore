@@ -48,6 +48,12 @@ Binaries/*
 
 # Builds
 Build/*
+Intermediate/
+PlayFab/
+VegaThreads/
+VaRest/
+Socketio/
+CISqlite3/
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
@@ -111,3 +117,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+TradeGame.VC.db
