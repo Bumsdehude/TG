@@ -122,3 +122,4 @@ TradeGame.VC.db
 *.modules
 Plugins/Myplugin/Binaries/Win64/UE4Editor.modules
 *.modules
+TradeGame.uproject
