@@ -54,6 +54,7 @@ VegaThreads/
 VaRest/
 Socketio/
 CISqlite3/
+Binaries/*
 
 # Don't ignore icon files in Build
 !Build/**/*.ico
@@ -118,3 +119,6 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 TradeGame.VC.db
+*.modules
+Plugins/Myplugin/Binaries/Win64/UE4Editor.modules
+*.modules
