@@ -124,6 +124,9 @@ Plugins/Myplugin/Binaries/Win64/UE4Editor.modules
 *.modules
 TradeGame.uproject
 <<<<<<< HEAD
+<<<<<<< HEAD
 Content/NewBlueprint.uasset
 =======
 >>>>>>> origin/master
+=======
+>>>>>>> refs/remotes/origin/j
